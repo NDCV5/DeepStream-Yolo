@@ -7,6 +7,7 @@
 #define __BATCHNORM_LAYER_H__
 
 #include <map>
+#include <string>
 #include <vector>
 
 #include "NvInfer.h"
